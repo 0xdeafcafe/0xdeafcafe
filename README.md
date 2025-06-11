@@ -1,9 +1,13 @@
-## Hey, I'm Alex 👋
+yo i'm alex
 
-I'm a **Full Stack Engineer** from **London, UK**, but based in **Amsterdam, NL**. Navigating the spicy world of AI trying to avoid writing as much Python as I can. 
+eng stuff @ work:
+- working on the @langwatch [platform](https://github.com/langwatch/langwatch/) 🏰
+- working on the @langwatch open source sdk's ([python](https://github.com/langwatch/langwatch/tree/main/python-sdk) 🐍, [go](https://github.com/langwatch/langwatch/tree/main/sdk-go) ⚡)
 
-### Currently...
+end stuff not @ work i'm not bored of just yet:
+- a 💅 *stylish* 💅 local and mutli-model AI assistant over at [0xdeafcafe/bloefish](https://github.com/0xdeafcafe/bloefish).
+- a chirpy 🐦 and feathery 🪶 API crafting tool over at [getbeak/beak](https://github.com/getbeak/beak).
 
-- 🏢 I’m working as a **Senior Full Stack Engineer** at [Langwatch 🏰](https://github.com/langwatch).
-- 🐡 I'm hacking on a 💅 *stylish* 💅 local and mutli-model AI assistant over at [0xdeafcafe/bloefish](https://github.com/0xdeafcafe/bloefish).
-- 🐦 I'm also sometimes building a feathery API crafting tool over at [getbeak/beak](https://github.com/getbeak/beak).
+when not @ work: 🥳 - 🧑‍💻 - 🧑‍🍳 - 🎶
+
+catch me on [@instagram](https://instagram.com/afr.png), [@linkedin](https://www.linkedin.com/in/alexforbesreed/), [@twitter](https://x.com/alexforbesreed).
