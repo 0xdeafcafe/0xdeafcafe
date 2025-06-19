@@ -4,7 +4,7 @@ eng stuff @ work:
 - working on the [@langwatch/platform](https://github.com/langwatch/langwatch/) 🏰
 - working on the [@langwatch](https://github.com/langwatch) open source sdk's ([python](https://github.com/langwatch/langwatch/tree/main/python-sdk) 🐍, [go](https://github.com/langwatch/langwatch/tree/main/sdk-go) ⚡)
 
-end stuff not @ work i'm not bored of just yet:
+eng stuff not @ work i'm not bored of:
 - a 💅 *stylish* 💅 local and mutli-model AI assistant over at [0xdeafcafe/bloefish](https://github.com/0xdeafcafe/bloefish)
 - a chirpy 🐦 and feathery 🪶 API crafting tool over at [getbeak/beak](https://github.com/getbeak/beak)
 
